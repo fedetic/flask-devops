@@ -16,4 +16,3 @@ def hello_there(name = None):
         "hello_there.html",
         name=name,
         date=datetime.now()
-    
